@@ -1,0 +1,11 @@
+{
+  "name": "money.js",
+  "repo": "matchdav/money.js",
+  "description": "component for handling money formats",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "money.js"
+}

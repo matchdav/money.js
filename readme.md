@@ -17,10 +17,12 @@ fx("$1.99 HKD").to("EUR");
 // And simple setup, allowing this:
 fx(1).convert();
 
-// Oh yeah and nodeJS / AMD:
+// Oh yeah and nodeJS / AMD / component:
 var fx = require('money');
 require(["money"], function(fx) { /* ... */ });
 ```
+
+
 
 Visit **[josscrowcroft.github.com/money.js](http://josscrowcroft.github.com/money.js/)** for more info, examples and full documentation.
 
