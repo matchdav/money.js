@@ -2,7 +2,7 @@
   "name": "money.js",
   "repo": "matchdav/money.js",
   "description": "component for handling money formats",
-  "version": "0.0.1",
+  "version": "v0.1.3",
   "keywords": [],
   "dependencies": {},
   "development": {},
