@@ -7,5 +7,9 @@
   "dependencies": {},
   "development": {},
   "license": "MIT",
-  "main": "money.js"
+  "main": "index.js",
+  "scripts":[
+    "index.js",
+    "money.js"
+  ]
 }
